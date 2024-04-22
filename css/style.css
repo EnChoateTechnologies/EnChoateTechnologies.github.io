@@ -366,22 +366,22 @@ p a:hover {
 	display: block;
 	text-transform: uppercase;
 }
-.practices {
+.services {
 	list-style: none;
 	display: inline-block;
 	width: 640px;
 	margin: 0 0 0 -20px;
 	padding: 0;
 }
-.practices li {
+.services li {
 	float: left;
 	margin: 0 20px 36px;
 	position: relative;
 }
-.practices li a {
+.services li a {
 	text-decoration: none;
 }
-.practices li a span {
+.services li a span {
 	background-color: #696969;
 	color: #e2e2e2;
 	display: block;
@@ -392,9 +392,9 @@ p a:hover {
 	position: absolute;
 	bottom: 21px;
 	left: 8px;
-	*left: 6px;
+	left: 6px;
 }
-.practices li a:hover span {
+.services li a:hover span {
 	background-color: #393939;
 }
 .sidebar {
